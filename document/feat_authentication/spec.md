@@ -4,12 +4,12 @@
 「Discordでログイン」を実装する。
 
 ## 画面
-![画面遷移図](./feat_authentication.svg)
+![画面遷移図](./feat_authentication.png)
 
 ## 詳細
 
 ### フロー図
-![フロー図](./feat_authentication_flow.svg)
+![フロー図](./feat_authentication_flow.png)
 
 ### 1-1: ログイン画面
 「Discordでログイン」以外のログイン方法は提供しないものとする。(そもそもこのサービスはDiscordを利用していることを前提としている。)
